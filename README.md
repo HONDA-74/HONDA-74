@@ -92,7 +92,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=radical&hide_title=true&hide_rank=true&count_private=true&hide=issues,prs" height="180"/>
   <img src="https://streak-stats.demolab.com?user=HONDA-74&theme=tokyonight&border_radius=20" height="180"/>
 </p>
 
@@ -101,13 +100,6 @@
 ## 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HONDA-74&theme=tokyo-night&area=true&hide_border=true&radius=12" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
