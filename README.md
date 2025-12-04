@@ -88,8 +88,9 @@
 
 ## 📊 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONDA-74&layout=compact&theme=tokyonight&border_radius=20" height="180"/>
+  <img src="https://github-readme-stats-honda.vercel.app/api/top-langs/?username=HONDA-74&layout=compact&theme=tokyonight&border_radius=20" height="180"/>
 </p>
+
 
 ---
 
@@ -102,7 +103,8 @@
 
 ## 🚀 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight&border_radius=20" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HONDA-74&theme=tokyonight&border_radius=20" height="180"/>
+  <img src="https://github-readme-stats-honda.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight&border_radius=20" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=HONDA-74&theme=tokyonight&border_radius=20" height="180"/>
 </p>
+
 
