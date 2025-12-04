@@ -3,8 +3,6 @@
   <img src="https://camo.githubusercontent.com/7bdfcc5ee8133abfb28ee78dca9607519dae080b52953e578b05bd7ed8f8cae6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" />
 </p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <h3 align="left">I'm Mohanad Tarek<br>Back End Developer specializing in Node.js & Nest.js</h3>
@@ -103,13 +101,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HONDA-74&theme=tokyo-night&area=true&hide_border=true&radius=12" />
 </p>
 
----
-
-## 🐍 Contribution Snake  
 <p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d466f6f746572266865696768743d3130302673656374696f6e3d666f6f746572" />
+  <img src="https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" />
 </p>
