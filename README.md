@@ -1,5 +1,5 @@
 
-# 🚀 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴 - Backend Developer & Aspiring Full Stack
+# 🚀 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴 - Aspiring Full Stack
 
 <div align="center">
 
