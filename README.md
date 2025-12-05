@@ -5,10 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=40&animation=fadeIn" />
 
-
 </div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -121,12 +118,14 @@ const mohanad = {
 
 </p>
 
----
-
 <div align="center">
 
 
-<img src="https://komarev.com/ghpvc/?username=HONDA-74&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
+<p align="center">
+  <a href="https://github.com/HONDA-74" target="_blank" title="Profile Views">
+    <img src="https://img.shields.io/badge/Profile%20Views-👀-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br /><br />
 
