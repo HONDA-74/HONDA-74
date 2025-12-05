@@ -5,14 +5,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Mohanad%20Tarek&fontSize=40&animation=fadeIn" />
 
-<p align="center" style="font-family:'cursive'; font-size:30px; font-weight:bold;">
-  <span style="background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               display:inline-block;
-               animation: rainbow 4s linear infinite;">
-    𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴 - Backend Developer | Node.js & Nest.js Specialist
-  </span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&width=800&lines=𝓜𝓸𝓱𝓪𝓷𝓪𝓭+𝓣𝓪𝓻𝓮𝓴+-+Backend+Developer+%7C+Node.js+%26+Nest.js+Specialist;UI%2FUX+Enthusiast+%7C+Frontend+Learner;Turning+Coffee+Into+Clean+Code;Building+Scalable+Architectures;Future+Full+Stack+Developer" />
 </p>
 
 <style>
@@ -39,7 +33,7 @@ span {
 ```javascript
 const mohanad = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python"],
+  code: ["JavaScript", "TypeScript", "C++" , "HTML" , "CSS" , "Python" ],
   backend: ["Node.js", "Nest.js", "Express", "GraphQL", "Socket.io"],
   frontend: ["React", "Next.js", "Angular", "Vue.js", "Tailwind"],
   uiux: ["Figma", "Wireframes", "Prototyping", "User Flows"],
@@ -141,11 +135,11 @@ const mohanad = {
 
 <div align="center">
 
-<br /><br />
+
 
 <img src="https://komarev.com/ghpvc/?username=HONDA-74&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
 
----
+<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&reversal=true" />
 
