@@ -104,9 +104,11 @@ const mohanad = {
 ---
 
 ## 🎧 Spotify Now Playing
-<p align="center">
+<div align="center">
+  
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&cover_image=true&theme=novatorem&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/login)
-</p>
+  
+</div>
 
 
 
