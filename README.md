@@ -107,6 +107,13 @@ const mohanad = {
 
 ---
 
+## 🎧 Spotify Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&cover_image=true&theme=novatorem&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/login)
+
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -123,6 +130,8 @@ const mohanad = {
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=HONDA-74&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&reversal=true" />
 
