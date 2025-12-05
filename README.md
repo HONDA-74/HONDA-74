@@ -34,19 +34,6 @@ const mohanad = {
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ## 🔹 Backend Development
@@ -96,12 +83,6 @@ const mohanad = {
 </p>
 
 ---
-# 🎮 Fun Zone
-<div align="center">
-  <strong>“First, solve the problem. Then, write the code.” – John Johnson</strong>
-</div>
-
----
 
 ## 🎧 Spotify Now Playing
 <div align="center">
@@ -117,14 +98,32 @@ const mohanad = {
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mohanadtarek742203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohanad-tarek-2714b92b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:mohanadtarek742203@gmail.com" title="Email Me" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohanad-tarek-2714b92b6/" title="LinkedIn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://x.com/Jr_honda_" title="Twitter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://leetcode.com/u/HoONDA/" title="LeetCode" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.facebook.com/mohanad74tarek" title="Facebook" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/jr.honda.74/" title="Instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" style="margin:0 10px;"/>
+  </a>
+</p>
+
 </p>
 
 ---
 
 <div align="center">
-
 
 
 <img src="https://komarev.com/ghpvc/?username=HONDA-74&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
