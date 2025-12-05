@@ -7,6 +7,8 @@
 
 </div>
 
+<br /><br />
+
 ## 👨‍💻 About Me
 
 <p align="center">
@@ -120,12 +122,6 @@ const mohanad = {
 
 <div align="center">
 
-
-<p align="center">
-  <a href="https://github.com/HONDA-74" target="_blank" title="Profile Views">
-    <img src="https://img.shields.io/badge/Profile%20Views-👀-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <br /><br />
 
