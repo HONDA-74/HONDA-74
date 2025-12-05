@@ -86,9 +86,8 @@ const mohanad = {
 
 <div align="center">
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=HONDA-74&theme=tokyonight&border_radius=20" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=HONDA-74&theme=tokyonight&border_radius=20" height="180"/>
 </p>
 
 </div>
