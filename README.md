@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome To My Hub&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=40&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&width=800&lines=Mohanad%20Tarek+-+Backend+Developer+%7C+Node.js+%26+Nest.js+Specialist;UI%2FUX+Enthusiast+%7C+Frontend+Learner;Turning+Coffee+Into+Clean+Code;Building+Scalable+Architectures;Future+Full+Stack+Developer" />
