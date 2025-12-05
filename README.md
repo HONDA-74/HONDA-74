@@ -5,7 +5,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Mohanad%20Tarek&fontSize=40&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Node.js+%26+Nest.js+Specialist;UI%2FUX+Enthusiast+%7C+Frontend+Learner;Turning+Coffee+Into+Clean+Code;Building+Scalable+Architectures;Future+Full+Stack+Developer)](https://git.io/typing-svg)
+<p align="center" style="font-family:'cursive'; font-size:30px; font-weight:bold;">
+  <span style="background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               display:inline-block;
+               animation: rainbow 4s linear infinite;">
+    𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴 - Backend Developer | Node.js & Nest.js Specialist
+  </span>
+</p>
+
+<style>
+@keyframes rainbow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+span {
+  background-size: 400% 400%;
+}
+</style>
 
 </div>
 
@@ -66,14 +85,11 @@ const mohanad = {
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="45" />
 </p>
 
----
-
 ## ☁️ Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker&perline=8" />
 </p>
 
----
 
 ## 🔧 Tools & Others
 <p align="center">
@@ -124,8 +140,6 @@ const mohanad = {
 ---
 
 <div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&cover_image=true&theme=novatorem&bar_color=53b14f" height="150" />
 
 <br /><br />
 
