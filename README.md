@@ -6,9 +6,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=40&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&width=800&lines=Mohanad%20Tarek+-+Backend+Developer+%7C+Node.js+%26+Nest.js+Specialist;UI%2FUX+Enthusiast+%7C+Frontend+Learner;Turning+Coffee+Into+Clean+Code;Building+Scalable+Architectures;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&center=true&width=800&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&lines=𝓜𝓸𝓱𝓪𝓷𝓪𝓭+𝓣𝓪𝓻𝓮𝓴+-+Backend+Developer+%7C+Node.js+%26+Nest.js+Specialist;UI%2FUX+Enthusiast+%7C+Frontend+Learner;Turning+Coffee+Into+Clean+Code;Future+Full+Stack+Developer" />
 </p>
-
 
 
 </div>
