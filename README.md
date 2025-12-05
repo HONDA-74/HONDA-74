@@ -9,17 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&width=800&lines=𝓜𝓸𝓱𝓪𝓷𝓪𝓭+𝓣𝓪𝓻𝓮𝓴+-+Backend+Developer+%7C+Node.js+%26+Nest.js+Specialist;UI%2FUX+Enthusiast+%7C+Frontend+Learner;Turning+Coffee+Into+Clean+Code;Building+Scalable+Architectures;Future+Full+Stack+Developer" />
 </p>
 
-<style>
-@keyframes rainbow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-span {
-  background-size: 400% 400%;
-}
-</style>
-
 </div>
 
 ---
