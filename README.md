@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=40&animation=fadeIn" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Mohanad+Tarek+%F0%9F%9A%80;Full+Stack+Developer+%E2%9C%A8;Passionate+About+Building+Cool+Stuff+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;+I'm+Mohanad+Tarek+%F0%9F%9A%80;Full+Stack+Developer+🔥;Always+Learning+New+Things+💡" />
 
 </div>
 
