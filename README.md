@@ -37,7 +37,20 @@ const mohanad = {
 
 ## 🔹 Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,typescript,fastapi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=express&perline=8" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi&perline=8" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" />
 </p>
 
