@@ -1,3 +1,4 @@
+
 # 🚀 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴 - Aspiring Full Stack
 
 <div align="center">
@@ -8,10 +9,11 @@
 
 </div>
 
+
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtd97nXf6sX1gk/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ```javascript
@@ -29,44 +31,77 @@ const mohanad = {
   funFact: "I create bugs just so I can fix them later 😅"
 };
 ```
+
 ---
 
 # 🛠️ Tech Stack
 
 ## 🔹 Backend Development
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBukhW8y7Zq9E0U/giphy.gif" height="50" />
-  <img src="https://media.giphy.com/media/3o7TKtd97nXf6sX1gk/giphy.gif" height="50" />
+  <img src="https://skillicons.dev/icons?i=express&perline=8" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi&perline=8" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" />
 </p>
 
 ## 🔹 Frontend Development
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" height="50" />
-  <img src="https://media.giphy.com/media/3o7TKuQJ2FqO9wY8cg/giphy.gif" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
 </p>
 
 ## 🔹 UI / UX Design
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqFUM8y6N0UyNck/giphy.gif" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="45" />
 </p>
 
 ## ☁️ Databases & Cloud
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKPGaLC4XUclPz2/giphy.gif" height="50" />
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker&perline=8" />
 </p>
+
 
 ## 🔧 Tools & Others
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKM35lC6nYx9XtW/giphy.gif" height="50" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&perline=8" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
+
 <div align="center">
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=HONDA-74&theme=tokyonight&border_radius=20" height="180"/>
+</p>
+
 </div>
 
 ---
@@ -78,19 +113,49 @@ const mohanad = {
 
 ---
 
-# 🎧 Spotify Now Playing
+## 🎧 Spotify Now Playing
 <div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&redirect=true)
+  
 </div>
+
+
 
 ---
 
 # 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:mohanadtarek742203@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40"/></a>
-  <a href="https://www.linkedin.com/in/mohanad-tarek-2714b92b6/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/></a>
-  <a href="https://x.com/Jr_honda_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="40"/></a>
-  <a href="https://leetcode.com/u/HoONDA/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/></a>
-  <a href="https://www.facebook.com/mohanad74tarek"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40"/></a>
-  <a href="https://www.instagram.com/jr.honda.74/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40"/></a>
+<p align="center">
+  <a href="mailto:mohanadtarek742203@gmail.com" title="Email Me" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohanad-tarek-2714b92b6/" title="LinkedIn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://x.com/Jr_honda_" title="Twitter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://leetcode.com/u/HoONDA/" title="LeetCode" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.facebook.com/mohanad74tarek" title="Facebook" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" style="margin:0 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/jr.honda.74/" title="Instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" style="margin:0 10px;"/>
+  </a>
 </p>
+
+</p>
+
+<div align="center">
+
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&reversal=true" />
+
+</div>
+
