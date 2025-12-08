@@ -150,7 +150,7 @@ const mohanad = {
   <a href="https://www.instagram.com/jr.honda.74/" title="Instagram" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="80" style="margin:0 10px;"/>
   </a>
-  <a href="https://www.tiktok.com/@hoonda74?_t=8Uznss81dFG&_r=1&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnISBC_pYwhRk3qtnhAYIZII3JGFcrkb4NrIa-FturHHBzhekUylLWpaOMF4k_aem_iHJA4Qh6CBtPys6HhQlHuA" title="LeetCode" target="_blank">
+  <a href="https://www.tiktok.com/@hoonda74?_t=8Uznss81dFG&_r=1&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnISBC_pYwhRk3qtnhAYIZII3JGFcrkb4NrIa-FturHHBzhekUylLWpaOMF4k_aem_iHJA4Qh6CBtPys6HhQlHuA" title="TikTok" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" height="80" style="margin:0 10px;"/>
   </a>
 </p>
