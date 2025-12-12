@@ -101,11 +101,9 @@ const mohanad = {
 # 📊 GitHub Stats
 
 <div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight" height="180"/>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight" height="180" />
+  <img width="20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONDA-74&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 ---
