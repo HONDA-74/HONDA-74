@@ -101,15 +101,22 @@ const mohanad = {
 # 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
+
+  <!-- GitHub Total Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight" height="180" />
+
   <img width="20" />
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONDA-74&layout=compact&theme=tokyonight" height="180" />
+
   <img width="20" />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=HONDA-74&theme=tokyonight&border_radius=20" height="180" />
+
+  <!-- Streak Badge -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=HONDA-74&theme=tokyonight" height="180" />
+
 </div>
+
 
 
 ---
