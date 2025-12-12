@@ -129,7 +129,7 @@ const mohanad = {
 # 💼 Portfolio
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="https://honda-74.github.io/portfolio/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/236122345-7c2f0d7d-32a5-4c70-8e2d-2e019b7b6eab.png" height="80" style="margin:0 10px;" />
   </a>
 </p>
