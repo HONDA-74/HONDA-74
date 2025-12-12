@@ -103,8 +103,7 @@ const mohanad = {
 <div align="center">
 
 <p align="center">
-  <img src="[![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight)](https://github.com/HONDA-74)
-" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
 </div>
