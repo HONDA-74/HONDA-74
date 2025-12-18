@@ -82,7 +82,7 @@ const mohanad = {
 
 ## 🔹 UI / UX Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
 </p>
 
 ## ☁️ Databases & Cloud
