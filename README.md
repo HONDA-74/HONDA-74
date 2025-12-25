@@ -160,7 +160,7 @@ const mohanad = {
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/>
   </a>
   <a href="https://leetcode.com/u/HoONDA/">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
   </a>
 </p>
 
