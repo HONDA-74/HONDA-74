@@ -150,28 +150,20 @@ const mohanad = {
 
 <p align="center">
 <p align="center">
-  <a href="mailto:mohanadtarek742203@gmail.com" title="Email Me" target="_blank">
-    <img src="https://github.com/HONDA-74/HONDA-74/blob/main/Gmail.gif?raw=true" height="80" style="margin:0 10px;"/>
+  <a href="mailto:mohanadtarek742203@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50"/>
   </a>
-  <a href="https://leetcode.com/u/HoONDA/" title="LeetCode" target="_blank">
-    <img src="https://github.com/HONDA-74/HONDA-74/blob/main/Leetcode.gif?raw=true" height="80" style="margin:0 10px;"/>
+  <a href="https://www.linkedin.com/in/mohanad-tarek-2714b92b6/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohanad-tarek-2714b92b6/" title="LinkedIn" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" style="margin:0 10px;"/>
+  <a href="https://github.com/HONDA-74">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/>
   </a>
-  <a href="https://x.com/Jr_honda_" title="Twitter" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" style="margin:0 10px;"/>
-  </a>
-  <a href="https://www.facebook.com/mohanad74tarek" title="Facebook" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="80" style="margin:0 10px;"/>
-  </a>
-  <a href="https://www.instagram.com/jr.honda.74/" title="Instagram" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="80" style="margin:0 10px;"/>
-  </a>
-  <a href="https://www.tiktok.com/@hoonda74?_t=8Uznss81dFG&_r=1&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnISBC_pYwhRk3qtnhAYIZII3JGFcrkb4NrIa-FturHHBzhekUylLWpaOMF4k_aem_iHJA4Qh6CBtPys6HhQlHuA" title="TikTok" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" height="80" style="margin:0 10px;"/>
+  <a href="https://leetcode.com/u/HoONDA/">
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="50"/>
   </a>
 </p>
+
 
 </p>
 
