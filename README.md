@@ -26,7 +26,7 @@ const mohanad = {
   code: ["JavaScript", "TypeScript", "C++" , "HTML" , "CSS" , "Python" ],
   backend: ["Node.js", "Nest.js", "Express", "GraphQL", "Socket.io"],
   frontend: ["React", "Next.js", "Angular", "Vue.js", "Tailwind"],
-  uiux: ["Figma", "Wireframes", "Prototyping", "User Flows"],
+  uiux: ["Figma", "Wireframes", "Prototyping", "User Flows" , "PhotoShop" , "Illustrator" ],
   databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
   cloud: ["AWS", "Docker", "Firebase", "Vercel"],
   tools: ["Git", "Postman", "Jest", "VS Code"],
