@@ -151,20 +151,18 @@ const mohanad = {
 <p align="center">
 <p align="center">
   <a href="mailto:mohanadtarek742203@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mohanad-tarek-2714b92b6/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/HONDA-74">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/HoONDA/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
-
 </p>
 
 <div align="center">
