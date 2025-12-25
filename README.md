@@ -91,7 +91,7 @@ const mohanad = {
 
 ## 🔧 Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=8" />
 </p>
 
 ---
