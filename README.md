@@ -129,7 +129,7 @@ const mohanad = {
 ## 🎧 Spotify Now Playing
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&cover_image=true&theme=apple&show_offline=ture&background_color=121212&interchange=true&profanity=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31v6gz3wrfeqrj3trqbyrrpuvedq&redirect=true)
   
 </div>
 
