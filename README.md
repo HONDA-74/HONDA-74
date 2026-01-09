@@ -153,6 +153,9 @@ const mohanad = {
   <a href="https://leetcode.com/u/HoONDA/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://codeforces.com/profile/MohanadTarek">
+    <img src="https://img.shields.io/badge/CodeForces-FFA116?style=for-the-badge&logo=CodeForces&logoColor=black"
+  </a>
 </p>
 </p>
 
