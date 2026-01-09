@@ -7,10 +7,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Welcome&fontSize=40&animation=fadeIn"/>
 
-
+# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40"/> 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴
 
 <br>
-# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40"/> 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;+I'm+Mohanad+Tarek+%F0%9F%9A%80;Full+Stack+Developer+🔥;Always+Learning+New+Things+💡" />
 
 </div>
