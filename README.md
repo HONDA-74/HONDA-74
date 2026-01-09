@@ -10,7 +10,7 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40"/> 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴
 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+There+👋;I'm+Mohanad+Tarek;Full+Stack+Developer+🔥;Backend+Focused+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Things+💡;Building+Real+World+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+There+👋;I'm+Mohanad+Tarek;Full+Stack+Developer+🔥;Backend+Focused+Developer;Always+Learning+New+Things+💡;Building+Real+World+Projects+🚀" />
 
 
 </div>
