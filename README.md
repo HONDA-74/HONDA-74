@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=🔥%20MohanadTarek&fontSize=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Welcome&fontSize=40&animation=fadeIn"/>
 
 
 
