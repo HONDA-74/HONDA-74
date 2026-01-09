@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=𝓜𝓸𝓱𝓪𝓷𝓪𝓭𝓣𝓪𝓻𝓮𝓴&fontSize=40&animation=fadeIn" />
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;+I'm+Mohanad+Tarek+%F0%9F%9A%80;Full+Stack+Developer+🔥;Always+Learning+New+Things+💡" />
 
