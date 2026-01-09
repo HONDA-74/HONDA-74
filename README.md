@@ -1,6 +1,6 @@
 
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40"/> 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴 – Aspiring Full Stack Developer
+# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40"/> 𝓜𝓸𝓱𝓪𝓷𝓪𝓭 𝓣𝓪𝓻𝓮𝓴
 
 
 <div align="center">
