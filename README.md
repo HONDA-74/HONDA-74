@@ -5,10 +5,8 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=𝓜𝓸𝓱𝓪𝓷𝓪𝓭𝓣𝓪𝓻𝓮𝓴&fontSize=40&animation=fadeIn"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=🔥%20MohanadTarek&fontSize=40&animation=fadeIn"/>
+
 
 
 <br>
