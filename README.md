@@ -1,8 +1,3 @@
-
-
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontSize=40&animation=fadeIn"/>
