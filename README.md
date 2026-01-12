@@ -94,10 +94,9 @@ const mohanad = {
 </p>
 
 ---
+<!-- # 📊 GitHub Stats -->
 
-# 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
 
   <!-- GitHub Total Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=HONDA-74&show_icons=true&theme=tokyonight" height="180" /> -->
@@ -105,18 +104,17 @@ const mohanad = {
   <!-- <img width="20" /> -->
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONDA-74&layout=compact&theme=tokyonight" height="180" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONDA-74&layout=compact&theme=tokyonight" height="180" />
 
-  <img width="20" />
+   <img width="20" />
 
   <!-- Streak Badge -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=HONDA-74&theme=tokyonight" height="180" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=HONDA-74&theme=tokyonight" height="180" />
 
-</div>
+</div> -->
 
 
 
----
 
 # 📈 Activity Graph
 <p align="center">
