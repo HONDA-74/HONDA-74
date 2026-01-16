@@ -115,13 +115,13 @@ const mohanad = {
 
 
 
-
+<!--
 # 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HONDA-74&theme=tokyo-night&area=true&hide_border=true&radius=12" />
 </p>
 
----
+--- -->
 
 # 💼 Portfolio
 
